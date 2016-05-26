@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="inputPhone">请输入正确的电话号码</string>
+    <string name="inputVftCode">请输入正确的验证码</string>
+    <string name="enterSuccess">登录成功</string>
+    <string name="sendSuccess">短信发送成功，验证码为1234</string>
+    <string name="readAgreement">请仔细阅读协议</string>
+</resources>
